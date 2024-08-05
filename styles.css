@@ -39,6 +39,13 @@ main {
 
 }
 
+.aside > div {
+    margin: 15rem 0 0 0;
+    font-size: 5rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    color: white;
+}
 
 .credit {
     display: block;
