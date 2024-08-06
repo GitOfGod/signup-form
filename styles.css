@@ -103,3 +103,8 @@ button {
     background-color: rgba(7, 54, 28, 0.8);
     color: white;
 }
+
+.login {
+    color: #07361c;
+    text-decoration: none;
+}
