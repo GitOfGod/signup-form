@@ -40,8 +40,8 @@ main {
 }
 
 .aside > div {
-    margin: 15rem 0 0 0;
-    font-size: 5rem;
+    margin: 3.5em 0 0 0;
+    font-size: 5em;
     background-color: rgba(0, 0, 0, 0.7);
     text-align: center;
     color: white;
@@ -60,6 +60,7 @@ main {
 
 .form-section {
     flex: 2;
+    
 }
 
 
