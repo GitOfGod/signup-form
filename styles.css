@@ -67,4 +67,19 @@ main {
    
 }
 
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8em;
+
+}
+
+.form-input {
+    display:flex;
+    flex-direction: column;
+    width: 45%;
+    padding-bottom: 1em;
+
+
+}
 
