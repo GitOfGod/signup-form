@@ -16,6 +16,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
+    background-color: rgba(7, 54, 28, 0.2);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -64,6 +65,7 @@ main {
     flex-direction: column;
     justify-content: center;
     padding: 0em 5em 0em 5em;
+    
    
 }
 
@@ -84,8 +86,9 @@ main {
 }
 
 input {
-    border: 1px solid #E5E7EB;
+    border: 1px solid #07361c;
     border-radius: 4px;
     height: 2em;
+    background-color: rgba(7, 54, 28, 0.1);
 }
 
