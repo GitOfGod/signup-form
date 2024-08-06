@@ -83,3 +83,9 @@ main {
 
 }
 
+input {
+    border: 1px solid #E5E7EB;
+    border-radius: 4px;
+    height: 2em;
+}
+
