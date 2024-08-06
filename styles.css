@@ -85,10 +85,18 @@ main {
 
 }
 
-input {
+input, button {
     border: 1px solid #07361c;
     border-radius: 4px;
-    height: 2em;
     background-color: rgba(7, 54, 28, 0.1);
 }
 
+input {    
+    height: 2em;    
+}
+
+button {
+    font: inherit;
+    font-size: 0.8em;
+    padding: 1em 2em 1em 2em;
+}
