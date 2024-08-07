@@ -102,6 +102,12 @@ input:focus {
     box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
 }
 
+input:user-invalid {
+    background-color: white;
+    border: 1px solid red;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
 button {
     font: inherit;
     font-size: 0.8em;
