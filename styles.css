@@ -111,6 +111,16 @@ button {
     margin: 2em 0em 1em 0em;
 }
 
+button:hover {
+    color:  #07361c;
+    background-color: white;
+}
+
+button:active {
+    color:  #07361c; 
+    background-color: rgba(7, 54, 28, 0.1); 
+}
+
 .login, h2 {
     color: #07361c;
     text-decoration: none;
